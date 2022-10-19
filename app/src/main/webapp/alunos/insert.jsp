@@ -20,6 +20,10 @@
                     <labelfor="idade">Idade</label>
                     <input class="form-control"type="number"name="idade"/>
                 </div>
+                <div class="form-group">
+                    <label for="nome">Curso</label>
+                    <input class="form-control"type="text"name="curso"placeholder="Nome do Curso"/>
+                </div>
                 <br/>
                 <a class="btn btn-primary"href="/alunos/list">Voltar</a>
                 <button class="btn btn-success"type="submit">Salvar</button>
